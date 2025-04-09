@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "flat-shape-ec75",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "20e0be90-24c5-4888-8d90-4bec7f84bd8e",
+      "database_name": "square-term-42f1-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
